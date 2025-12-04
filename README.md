@@ -41,6 +41,9 @@ pip install -r requirements.txt
 ```
 
 
+> add_glare.py
+This is the file I use to add the artificial sun glare on the traffic sign in different position of the sign from top to bottom to left to right towards center. You just need to change the value of the `position`. For example, `position="center"`.
+
 
 ## Repository Structure
 
