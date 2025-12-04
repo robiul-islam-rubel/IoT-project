@@ -21,6 +21,7 @@ This repository is containes several folders, each serving a specific purpose in
 
 | Folder Name              | Description                                                                                                  | README Link                                   |
 |--------------------------|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
-| `1_Datasets`             | Contains three datasets, each with images, human-annotated JSON files, and model-generated JSON files.       | [README](./1_Datasets/README.md)              |
-| `2_GenerateDescriptions` | Code for converting `txt` files to `json`; also contains the main generation code.                           | [README](./2_GenerateDescriptions/README.md)  |
+| `1_Datasets`             | Contains the datasets, each with images, human-annotated ground truth with CSV files, and glare induced dataset in 5 different position.       | [README](./1_Datasets/README.md)              |
+| `2_GenerateDescriptions` | Contains the prompt for VLM or Llama4 model.                       | [README](./2_GenerateDescriptions/README.md)  |
 | `3_GenerateResults`      | Code for analyzing study results and data presentation.                                                      | [README](./3_GenerateResults/README.md)       |
+| `Results`      | Contains all the CSV and figures files.                                                      | [README](./3_GenerateResults/README.md)       |
