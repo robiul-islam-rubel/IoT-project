@@ -1,7 +1,7 @@
 # When the Sun Becomes an Attacker: Glare-Induced Adversarial Vulnerabilities in Traffic Sign Classification
 
 ## Abstract
-
+----
 Autonomous vehicles rely on deep learning based per-
 ception systems to interpret traffic signs and support safe
 driving decisions. Although previous studies have exam-
