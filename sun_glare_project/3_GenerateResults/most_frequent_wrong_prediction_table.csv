@@ -1,0 +1,43 @@
+TrueClassName,MostFrequentWrongPrediction,Count
+Yeild right of way,Yield,55
+Speed Limit (30Km/hr),Speed Limit 30,32
+Construction side ahead,Yield,27
+Speed Limit (70Km/hr),Speed Limit,27
+No Passing for trucks over 3.5 tons,Speed Limit,26
+Priotity Road,Yield,26
+Speed Limit (60Km/hr),Stop,23
+Keep right,Stop,23
+Right of way,Yield,20
+Speed Limit (50Km/hr),Speed Limit 50,20
+Speed Limit (80Km/hr),Stop,17
+No Passing,Speed Limit,16
+Entery prohibited,Stop,14
+Speed Limit (120Km/hr),Speed Limit,13
+Mandatory direction of travel ahead,Speed Limit,13
+Prohibited for all vehicles,Stop,10
+Speed Limit (100Km/hr),Stop,10
+Children,Yield,9
+Mandatory direction of travel right,Stop,9
+Danger,Stop,9
+Slippery road,Yield,7
+Bicycle crossing,Yield,7
+Mandatory direction of travel left,Stop,6
+Signal lights ahead,Warning,6
+Wild animal crossing,Stop,6
+Speed Limit (20Km/hr),Speed Limit,5
+End of Speed Limit (80Km/hr),nan,5
+Trucks and tractors over 3.5 tons prohibited,Speed Limit,5
+Keep left,Yield,5
+End of no passing zone vehicle over 3.5 tons,Speed Limit,5
+Road narrows,Yield,5
+Traffic circle,Speed Limit,4
+Single curve left,nan,4
+Rough road,Yield,4
+Straight or right,Stop,4
+End of restrection,Speed Limit,4
+Unexpected ice danger,Stop,4
+Pedestrian crosswalk ahead,Yield,3
+End of no passing zone cars,Stop,3
+Double curve,Yield,2
+Single curve right,Stop,2
+Straight or left,Stop,1

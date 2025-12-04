@@ -1,0 +1,1001 @@
+Image,TrueClassId,TrueClassName,PredictedName,MappedPredictedClass
+Test/00000.png,16,Trucks and tractors over 3.5 tons prohibited,Speed Limit 60,
+Test/00001.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00002.png,38,Keep right,Speed Limit,
+Test/00003.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00004.png,11,Right of way,Warning,
+Test/00005.png,38,Keep right,Speed Limit,
+Test/00006.png,18,Danger,Warning Sign,
+Test/00007.png,12,Priotity Road,Yield,
+Test/00008.png,25,Construction side ahead,Yield,
+Test/00009.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00010.png,12,Priotity Road,Stop,14.0
+Test/00011.png,7,Speed Limit (100Km/hr),Speed Limit 10,
+Test/00012.png,23,Slippery road,None,
+Test/00013.png,7,Speed Limit (100Km/hr),Speed Limit,
+Test/00014.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00015.png,9,No Passing,Speed Limit,
+Test/00016.png,21,Double curve,Yield,
+Test/00017.png,20,Single curve right,Stop,14.0
+Test/00018.png,27,Pedestrian crosswalk ahead,Warning,
+Test/00019.png,38,Keep right,Stop,14.0
+Test/00020.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00021.png,33,Mandatory direction of travel right,Yield,
+Test/00022.png,9,No Passing,Speed Limit,
+Test/00023.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00024.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00025.png,11,Right of way,Yield,
+Test/00026.png,13,Yeild right of way,Stop,14.0
+Test/00027.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00028.png,9,No Passing,Speed Limit,
+Test/00029.png,11,Right of way,Yield,
+Test/00030.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00031.png,17,Entery prohibited,Speed Limit,
+Test/00032.png,34,Mandatory direction of travel left,Yield,
+Test/00033.png,23,Slippery road,None,
+Test/00034.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00035.png,17,Entery prohibited,Speed Limit,
+Test/00036.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00037.png,12,Priotity Road,Speed Limit,
+Test/00038.png,16,Trucks and tractors over 3.5 tons prohibited,Speed Limit,
+Test/00039.png,8,Speed Limit (120Km/hr),None,
+Test/00040.png,7,Speed Limit (100Km/hr),Speed Limit,
+Test/00041.png,30,Unexpected ice danger,Stop,14.0
+Test/00042.png,18,Danger,Yield,
+Test/00043.png,12,Priotity Road,Stop,14.0
+Test/00044.png,24,Road narrows,Yield,
+Test/00045.png,25,Construction side ahead,Yield,
+Test/00046.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00047.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00048.png,18,Danger,Stop,14.0
+Test/00049.png,8,Speed Limit (120Km/hr),Speed Limit 10,
+Test/00050.png,25,Construction side ahead,Stop,14.0
+Test/00051.png,13,Yeild right of way,Yield,
+Test/00052.png,15,Prohibited for all vehicles,Speed Limit,
+Test/00053.png,9,No Passing,Stop,14.0
+Test/00054.png,13,Yeild right of way,Yield,
+Test/00055.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00056.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00057.png,26,Signal lights ahead,Warning,
+Test/00058.png,9,No Passing,No Entry,
+Test/00059.png,16,Trucks and tractors over 3.5 tons prohibited,Speed Limit,
+Test/00060.png,38,Keep right,Speed Limit,
+Test/00061.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00062.png,4,Speed Limit (70Km/hr),Speed Limit 70,
+Test/00063.png,9,No Passing,Speed Limit,
+Test/00064.png,15,Prohibited for all vehicles,Speed Limit,
+Test/00065.png,9,No Passing,Yield,
+Test/00066.png,26,Signal lights ahead,Stop,14.0
+Test/00067.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00068.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00069.png,28,Children,Yield,
+Test/00070.png,11,Right of way,Hazard - Uneven Road,
+Test/00071.png,25,Construction side ahead,Yield,
+Test/00072.png,30,Unexpected ice danger,Stop,14.0
+Test/00073.png,34,Mandatory direction of travel left,Stop,14.0
+Test/00074.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00075.png,12,Priotity Road,Yield,
+Test/00076.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00077.png,10,No Passing for trucks over 3.5 tons,Speed Limit 25,
+Test/00078.png,25,Construction side ahead,Yield,
+Test/00079.png,25,Construction side ahead,Yield,
+Test/00080.png,21,Double curve,Warning,
+Test/00081.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00082.png,25,Construction side ahead,Yield,
+Test/00083.png,7,Speed Limit (100Km/hr),Speed Limit,
+Test/00084.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00085.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00086.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00087.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00088.png,22,Rough road,Yield,
+Test/00089.png,13,Yeild right of way,Stop,14.0
+Test/00090.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00091.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00092.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00093.png,14,Stop,Stop,14.0
+Test/00094.png,12,Priotity Road,Speed Limit 22,
+Test/00095.png,32,End of restrection,Speed Limit,
+Test/00096.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00097.png,38,Keep right,Stop,14.0
+Test/00098.png,9,No Passing,Stop,14.0
+Test/00099.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00100.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00101.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00102.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00103.png,11,Right of way,Warning,
+Test/00104.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00105.png,4,Speed Limit (70Km/hr),Speed Limit 70,
+Test/00106.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00107.png,25,Construction side ahead,Yield,
+Test/00108.png,33,Mandatory direction of travel right,Yield,
+Test/00109.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00110.png,1,Speed Limit (30Km/hr),Speed Limit,
+Test/00111.png,14,Stop,Stop,14.0
+Test/00112.png,16,Trucks and tractors over 3.5 tons prohibited,Speed Limit,
+Test/00113.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00114.png,30,Unexpected ice danger,Speed Limit,
+Test/00115.png,3,Speed Limit (60Km/hr),Yield,
+Test/00116.png,27,Pedestrian crosswalk ahead,Warning,
+Test/00117.png,29,Bicycle crossing,Stop,14.0
+Test/00118.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00119.png,17,Entery prohibited,Stop,14.0
+Test/00120.png,13,Yeild right of way,Yield,
+Test/00121.png,7,Speed Limit (100Km/hr),Speed Limit 10,
+Test/00122.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00123.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00124.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00125.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00126.png,10,No Passing for trucks over 3.5 tons,Speed Limit 60,
+Test/00127.png,30,Unexpected ice danger,Speed Limit,
+Test/00128.png,1,Speed Limit (30Km/hr),Yield,
+Test/00129.png,6,End of Speed Limit (80Km/hr),None,
+Test/00130.png,36,Straight or right,Yield,
+Test/00131.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00132.png,14,Stop,Stop,14.0
+Test/00133.png,13,Yeild right of way,Yield,
+Test/00134.png,11,Right of way,Yield,
+Test/00135.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00136.png,18,Danger,Yield,
+Test/00137.png,40,Traffic circle,Speed Limit,
+Test/00138.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00139.png,38,Keep right,Speed Limit 50,
+Test/00140.png,41,End of no passing zone cars,Speed Limit 50,
+Test/00141.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00142.png,6,End of Speed Limit (80Km/hr),Stop,14.0
+Test/00143.png,18,Danger,Stop,14.0
+Test/00144.png,17,Entery prohibited,Yield,
+Test/00145.png,25,Construction side ahead,Speed Limit,
+Test/00146.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00147.png,41,End of no passing zone cars,Stop,14.0
+Test/00148.png,11,Right of way,Warning,
+Test/00149.png,21,Double curve,Warning Sign,
+Test/00150.png,7,Speed Limit (100Km/hr),Speed Limit,
+Test/00151.png,24,Road narrows,Yield,
+Test/00152.png,11,Right of way,Yield,
+Test/00153.png,25,Construction side ahead,Yield,
+Test/00154.png,17,Entery prohibited,Yield,
+Test/00155.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00156.png,6,End of Speed Limit (80Km/hr),None,
+Test/00157.png,9,No Passing,Stop,14.0
+Test/00158.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00159.png,4,Speed Limit (70Km/hr),None,
+Test/00160.png,13,Yeild right of way,Yield,
+Test/00161.png,16,Trucks and tractors over 3.5 tons prohibited,Speed Limit,
+Test/00162.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00163.png,25,Construction side ahead,Stop,14.0
+Test/00164.png,18,Danger,Yield,
+Test/00165.png,9,No Passing,Yield,
+Test/00166.png,13,Yeild right of way,Yield,
+Test/00167.png,14,Stop,Stop,14.0
+Test/00168.png,29,Bicycle crossing,Yield,
+Test/00169.png,17,Entery prohibited,Stop,14.0
+Test/00170.png,13,Yeild right of way,Yield,
+Test/00171.png,38,Keep right,Stop,14.0
+Test/00172.png,26,Signal lights ahead,Warning,
+Test/00173.png,25,Construction side ahead,Yield,
+Test/00174.png,33,Mandatory direction of travel right,Yield,
+Test/00175.png,1,Speed Limit (30Km/hr),Yield,
+Test/00176.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00177.png,40,Traffic circle,Speed Limit,
+Test/00178.png,13,Yeild right of way,Yield,
+Test/00179.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00180.png,8,Speed Limit (120Km/hr),Speed Limit 40,
+Test/00181.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00182.png,36,Straight or right,One Way,
+Test/00183.png,25,Construction side ahead,Warning,
+Test/00184.png,20,Single curve right,Warning,
+Test/00185.png,25,Construction side ahead,Warning,
+Test/00186.png,18,Danger,Stop,14.0
+Test/00187.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00188.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00189.png,8,Speed Limit (120Km/hr),None,
+Test/00190.png,10,No Passing for trucks over 3.5 tons,None,
+Test/00191.png,29,Bicycle crossing,Yield,
+Test/00192.png,12,Priotity Road,Speed Limit,
+Test/00193.png,38,Keep right,Stop,14.0
+Test/00194.png,31,Wild animal crossing,Yield,
+Test/00195.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00196.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00197.png,38,Keep right,Stop,14.0
+Test/00198.png,18,Danger,Warning,
+Test/00199.png,28,Children,Warning,
+Test/00200.png,17,Entery prohibited,Stop,14.0
+Test/00201.png,9,No Passing,Speed Limit,
+Test/00202.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00203.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00204.png,17,Entery prohibited,Stop,14.0
+Test/00205.png,9,No Passing,Speed Limit,
+Test/00206.png,2,Speed Limit (50Km/hr),Speed Limit 30,
+Test/00207.png,31,Wild animal crossing,Speed Limit,
+Test/00208.png,13,Yeild right of way,Yield,
+Test/00209.png,15,Prohibited for all vehicles,Yield,
+Test/00210.png,15,Prohibited for all vehicles,Speed Limit,
+Test/00211.png,38,Keep right,Yield,
+Test/00212.png,25,Construction side ahead,Yield,
+Test/00213.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00214.png,25,Construction side ahead,Warning,
+Test/00215.png,13,Yeild right of way,Yield,
+Test/00216.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00217.png,5,Speed Limit (80Km/hr),Speed Limit 80,
+Test/00218.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00219.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00220.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00221.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00222.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00223.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00224.png,14,Stop,Stop,14.0
+Test/00225.png,12,Priotity Road,Yield,
+Test/00226.png,12,Priotity Road,Speed Limit,
+Test/00227.png,5,Speed Limit (80Km/hr),Speed Limit 80,
+Test/00228.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00229.png,36,Straight or right,Stop,14.0
+Test/00230.png,25,Construction side ahead,Yield,
+Test/00231.png,13,Yeild right of way,Yield,
+Test/00232.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00233.png,18,Danger,Stop,14.0
+Test/00234.png,33,Mandatory direction of travel right,Right Turn,
+Test/00235.png,19,Single curve left,Speed Limit,
+Test/00236.png,12,Priotity Road,Yield,
+Test/00237.png,30,Unexpected ice danger,Stop,14.0
+Test/00238.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00239.png,18,Danger,Speed Limit,
+Test/00240.png,12,Priotity Road,Yield,
+Test/00241.png,13,Yeild right of way,Yield,
+Test/00242.png,20,Single curve right,Warning Sign,
+Test/00243.png,0,Speed Limit (20Km/hr),Speed Limit,
+Test/00244.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00245.png,40,Traffic circle,Yield,
+Test/00246.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00247.png,8,Speed Limit (120Km/hr),None,
+Test/00248.png,12,Priotity Road,Stop,14.0
+Test/00249.png,38,Keep right,Speed Limit,
+Test/00250.png,20,Single curve right,Yield,
+Test/00251.png,14,Stop,Stop,14.0
+Test/00252.png,0,Speed Limit (20Km/hr),Yield,
+Test/00253.png,36,Straight or right,arrow,
+Test/00254.png,34,Mandatory direction of travel left,Stop,14.0
+Test/00255.png,28,Children,Yield,
+Test/00256.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00257.png,13,Yeild right of way,Yield,
+Test/00258.png,25,Construction side ahead,Yield,
+Test/00259.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00260.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00261.png,14,Stop,Stop,14.0
+Test/00262.png,18,Danger,Speed Limit,
+Test/00263.png,25,Construction side ahead,Yield,
+Test/00264.png,1,Speed Limit (30Km/hr),Speed Limit,
+Test/00265.png,12,Priotity Road,Speed Limit,
+Test/00266.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00267.png,25,Construction side ahead,Warning Sign,
+Test/00268.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00269.png,18,Danger,Yield,
+Test/00270.png,18,Danger,Yield,
+Test/00271.png,18,Danger,Yield,
+Test/00272.png,34,Mandatory direction of travel left,Stop,14.0
+Test/00273.png,9,No Passing,Speed Limit,
+Test/00274.png,25,Construction side ahead,Warning,
+Test/00275.png,18,Danger,Warning,
+Test/00276.png,34,Mandatory direction of travel left,Stop,14.0
+Test/00277.png,39,Keep left,Yield,
+Test/00278.png,31,Wild animal crossing,Yield,
+Test/00279.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00280.png,9,No Passing,Stop,14.0
+Test/00281.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00282.png,31,Wild animal crossing,Speed Limit,
+Test/00283.png,26,Signal lights ahead,Stop,14.0
+Test/00284.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00285.png,1,Speed Limit (30Km/hr),Speed Limit,
+Test/00286.png,33,Mandatory direction of travel right,Speed Limit,
+Test/00287.png,30,Unexpected ice danger,Stop,14.0
+Test/00288.png,17,Entery prohibited,Speed Limit 30,
+Test/00289.png,13,Yeild right of way,Yield,
+Test/00290.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00291.png,31,Wild animal crossing,Yield,
+Test/00292.png,13,Yeild right of way,Yield,
+Test/00293.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00294.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00295.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00296.png,33,Mandatory direction of travel right,Right Turn,
+Test/00297.png,28,Children,Yield,
+Test/00298.png,35,Mandatory direction of travel ahead,Yield,
+Test/00299.png,26,Signal lights ahead,Warning,
+Test/00300.png,12,Priotity Road,Yield,
+Test/00301.png,5,Speed Limit (80Km/hr),None,
+Test/00302.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00303.png,14,Stop,Stop,14.0
+Test/00304.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00305.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00306.png,32,End of restrection,Speed Limit,
+Test/00307.png,1,Speed Limit (30Km/hr),No Entry,
+Test/00308.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00309.png,38,Keep right,Stop,14.0
+Test/00310.png,19,Single curve left,None,
+Test/00311.png,11,Right of way,Yield,
+Test/00312.png,38,Keep right,Stop,14.0
+Test/00313.png,38,Keep right,Stop,14.0
+Test/00314.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00315.png,42,End of no passing zone vehicle over 3.5 tons,Speed Limit,
+Test/00316.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00317.png,40,Traffic circle,Stop,14.0
+Test/00318.png,17,Entery prohibited,Stop,14.0
+Test/00319.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00320.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00321.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00322.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00323.png,6,End of Speed Limit (80Km/hr),Speed Limit,
+Test/00324.png,31,Wild animal crossing,Warning,
+Test/00325.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00326.png,9,No Passing,Speed Limit,
+Test/00327.png,38,Keep right,Speed Limit,
+Test/00328.png,8,Speed Limit (120Km/hr),None,
+Test/00329.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00330.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00331.png,18,Danger,Stop,14.0
+Test/00332.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00333.png,25,Construction side ahead,Yield,
+Test/00334.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00335.png,6,End of Speed Limit (80Km/hr),None,
+Test/00336.png,7,Speed Limit (100Km/hr),Speed Limit 30,
+Test/00337.png,34,Mandatory direction of travel left,Stop,14.0
+Test/00338.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00339.png,22,Rough road,Stop,14.0
+Test/00340.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00341.png,29,Bicycle crossing,Warning Sign,
+Test/00342.png,9,No Passing,Yield,
+Test/00343.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00344.png,38,Keep right,Speed Limit,
+Test/00345.png,38,Keep right,Stop,14.0
+Test/00346.png,18,Danger,Yield,
+Test/00347.png,7,Speed Limit (100Km/hr),Speed Limit 60,
+Test/00348.png,13,Yeild right of way,Yield,
+Test/00349.png,28,Children,Warning,
+Test/00350.png,17,Entery prohibited,Speed Limit,
+Test/00351.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00352.png,16,Trucks and tractors over 3.5 tons prohibited,Speed Limit 60,
+Test/00353.png,14,Stop,Stop,14.0
+Test/00354.png,12,Priotity Road,Yield,
+Test/00355.png,40,Traffic circle,Speed Limit,
+Test/00356.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00357.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00358.png,38,Keep right,Stop,14.0
+Test/00359.png,10,No Passing for trucks over 3.5 tons,Yield,
+Test/00360.png,9,No Passing,Speed Limit,
+Test/00361.png,38,Keep right,Speed Limit,
+Test/00362.png,13,Yeild right of way,Yield,
+Test/00363.png,39,Keep left,Speed Limit,
+Test/00364.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00365.png,11,Right of way,Yield,
+Test/00366.png,7,Speed Limit (100Km/hr),Speed Limit 100,
+Test/00367.png,38,Keep right,Speed Limit,
+Test/00368.png,19,Single curve left,None,
+Test/00369.png,13,Yeild right of way,Yield,
+Test/00370.png,10,No Passing for trucks over 3.5 tons,None,
+Test/00371.png,18,Danger,Warning,
+Test/00372.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00373.png,5,Speed Limit (80Km/hr),Yield,
+Test/00374.png,26,Signal lights ahead,Yield,
+Test/00375.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00376.png,41,End of no passing zone cars,Stop,14.0
+Test/00377.png,13,Yeild right of way,Yield,
+Test/00378.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00379.png,18,Danger,Stop,14.0
+Test/00380.png,19,Single curve left,None,
+Test/00381.png,13,Yeild right of way,Yield,
+Test/00382.png,38,Keep right,Stop,14.0
+Test/00383.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00384.png,35,Mandatory direction of travel ahead,Yield,
+Test/00385.png,25,Construction side ahead,Warning Sign,
+Test/00386.png,34,Mandatory direction of travel left,Yield,
+Test/00387.png,12,Priotity Road,Speed Limit,
+Test/00388.png,17,Entery prohibited,Stop,14.0
+Test/00389.png,9,No Passing,Stop,14.0
+Test/00390.png,4,Speed Limit (70Km/hr),Speed Limit 60,
+Test/00391.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00392.png,28,Children,Yield,
+Test/00393.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00394.png,1,Speed Limit (30Km/hr),Speed Limit,
+Test/00395.png,5,Speed Limit (80Km/hr),None,
+Test/00396.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00397.png,38,Keep right,Speed Limit,
+Test/00398.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00399.png,12,Priotity Road,Yield,
+Test/00400.png,38,Keep right,Speed Limit,
+Test/00401.png,36,Straight or right,One Way,
+Test/00402.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00403.png,0,Speed Limit (20Km/hr),Stop,14.0
+Test/00404.png,38,Keep right,Stop,14.0
+Test/00405.png,36,Straight or right,Stop,14.0
+Test/00406.png,8,Speed Limit (120Km/hr),Stop,14.0
+Test/00407.png,25,Construction side ahead,Yield,
+Test/00408.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00409.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00410.png,25,Construction side ahead,Yield,
+Test/00411.png,14,Stop,Stop,14.0
+Test/00412.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00413.png,26,Signal lights ahead,Warning,
+Test/00414.png,29,Bicycle crossing,Yield,
+Test/00415.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00416.png,10,No Passing for trucks over 3.5 tons,None,
+Test/00417.png,14,Stop,Stop,14.0
+Test/00418.png,9,No Passing,Speed Limit,
+Test/00419.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00420.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00421.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00422.png,19,Single curve left,Warning Sign,
+Test/00423.png,9,No Passing,Stop,14.0
+Test/00424.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00425.png,13,Yeild right of way,Yield,
+Test/00426.png,13,Yeild right of way,Yield,
+Test/00427.png,20,Single curve right,Warning,
+Test/00428.png,38,Keep right,Stop,14.0
+Test/00429.png,34,Mandatory direction of travel left,Speed Limit,
+Test/00430.png,11,Right of way,Yield,
+Test/00431.png,13,Yeild right of way,Yield,
+Test/00432.png,34,Mandatory direction of travel left,Stop,14.0
+Test/00433.png,34,Mandatory direction of travel left,Yield,
+Test/00434.png,12,Priotity Road,Yield,
+Test/00435.png,6,End of Speed Limit (80Km/hr),Stop,14.0
+Test/00436.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00437.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00438.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00439.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00440.png,22,Rough road,Yield,
+Test/00441.png,17,Entery prohibited,Do Not Enter,
+Test/00442.png,7,Speed Limit (100Km/hr),Speed Limit 100,
+Test/00443.png,30,Unexpected ice danger,Warning,
+Test/00444.png,25,Construction side ahead,Yield,
+Test/00445.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00446.png,31,Wild animal crossing,Speed Limit,
+Test/00447.png,38,Keep right,Stop,14.0
+Test/00448.png,38,Keep right,Stop,14.0
+Test/00449.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00450.png,9,No Passing,Stop,14.0
+Test/00451.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00452.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00453.png,40,Traffic circle,Traffic Circle,40.0
+Test/00454.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00455.png,38,Keep right,Yield,
+Test/00456.png,14,Stop,Stop,14.0
+Test/00457.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00458.png,39,Keep left,Yield,
+Test/00459.png,6,End of Speed Limit (80Km/hr),Speed Limit 30,
+Test/00460.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00461.png,25,Construction side ahead,Yield,
+Test/00462.png,25,Construction side ahead,Yield,
+Test/00463.png,17,Entery prohibited,Stop,14.0
+Test/00464.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00465.png,38,Keep right,Stop,14.0
+Test/00466.png,7,Speed Limit (100Km/hr),Speed Limit,
+Test/00467.png,13,Yeild right of way,Yield,
+Test/00468.png,14,Stop,Stop,14.0
+Test/00469.png,7,Speed Limit (100Km/hr),Speed Limit 100,
+Test/00470.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00471.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00472.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00473.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00474.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00475.png,12,Priotity Road,Yield,
+Test/00476.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00477.png,36,Straight or right,Stop,14.0
+Test/00478.png,24,Road narrows,Yield,
+Test/00479.png,13,Yeild right of way,Yield,
+Test/00480.png,33,Mandatory direction of travel right,Right Turn Ahead,
+Test/00481.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00482.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00483.png,6,End of Speed Limit (80Km/hr),None,
+Test/00484.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00485.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00486.png,12,Priotity Road,Yield,
+Test/00487.png,31,Wild animal crossing,Warning,
+Test/00488.png,9,No Passing,Speed Limit,
+Test/00489.png,14,Stop,Stop,14.0
+Test/00490.png,17,Entery prohibited,Stop,14.0
+Test/00491.png,26,Signal lights ahead,Yield,
+Test/00492.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00493.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00494.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00495.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00496.png,30,Unexpected ice danger,Speed Limit,
+Test/00497.png,9,No Passing,Stop,14.0
+Test/00498.png,31,Wild animal crossing,Speed Limit,
+Test/00499.png,40,Traffic circle,Speed Limit,
+Test/00500.png,22,Rough road,Yield,
+Test/00501.png,30,Unexpected ice danger,Yield,
+Test/00502.png,9,No Passing,Stop,14.0
+Test/00503.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00504.png,23,Slippery road,Yield,
+Test/00505.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00506.png,32,End of restrection,Stop,14.0
+Test/00507.png,42,End of no passing zone vehicle over 3.5 tons,Stop,14.0
+Test/00508.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00509.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00510.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00511.png,2,Speed Limit (50Km/hr),Speed Limit 30,
+Test/00512.png,25,Construction side ahead,Yield,
+Test/00513.png,22,Rough road,Stop,14.0
+Test/00514.png,38,Keep right,Yield,
+Test/00515.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00516.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00517.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00518.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00519.png,4,Speed Limit (70Km/hr),None,
+Test/00520.png,18,Danger,Speed Limit,
+Test/00521.png,26,Signal lights ahead,Warning,
+Test/00522.png,31,Wild animal crossing,Yield,
+Test/00523.png,14,Stop,Stop,14.0
+Test/00524.png,11,Right of way,Yield,
+Test/00525.png,13,Yeild right of way,Yield,
+Test/00526.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00527.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00528.png,18,Danger,Stop,14.0
+Test/00529.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00530.png,13,Yeild right of way,Yield,
+Test/00531.png,15,Prohibited for all vehicles,Yield,
+Test/00532.png,23,Slippery road,Yield,
+Test/00533.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00534.png,12,Priotity Road,Stop,14.0
+Test/00535.png,31,Wild animal crossing,Stop,14.0
+Test/00536.png,38,Keep right,Traffic Light,
+Test/00537.png,6,End of Speed Limit (80Km/hr),Stop,14.0
+Test/00538.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00539.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00540.png,8,Speed Limit (120Km/hr),Stop,14.0
+Test/00541.png,6,End of Speed Limit (80Km/hr),None,
+Test/00542.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00543.png,12,Priotity Road,Yield,
+Test/00544.png,4,Speed Limit (70Km/hr),None,
+Test/00545.png,1,Speed Limit (30Km/hr),Speed Limit,
+Test/00546.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00547.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00548.png,12,Priotity Road,Yield,
+Test/00549.png,12,Priotity Road,Yield,
+Test/00550.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00551.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00552.png,9,No Passing,Stop,14.0
+Test/00553.png,13,Yeild right of way,Yield,
+Test/00554.png,38,Keep right,Traffic Light,
+Test/00555.png,4,Speed Limit (70Km/hr),None,
+Test/00556.png,13,Yeild right of way,Yield,
+Test/00557.png,8,Speed Limit (120Km/hr),Stop,14.0
+Test/00558.png,13,Yeild right of way,Yield,
+Test/00559.png,24,Road narrows,Warning,
+Test/00560.png,17,Entery prohibited,Stop,14.0
+Test/00561.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00562.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00563.png,18,Danger,None,
+Test/00564.png,12,Priotity Road,Yield,
+Test/00565.png,23,Slippery road,Stop,14.0
+Test/00566.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00567.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00568.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00569.png,23,Slippery road,Yield,
+Test/00570.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00571.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00572.png,41,End of no passing zone cars,Speed Limit,
+Test/00573.png,6,End of Speed Limit (80Km/hr),Stop,14.0
+Test/00574.png,13,Yeild right of way,Yield,
+Test/00575.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00576.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00577.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00578.png,13,Yeild right of way,Speed Limit,
+Test/00579.png,0,Speed Limit (20Km/hr),Stop,14.0
+Test/00580.png,17,Entery prohibited,Yield,
+Test/00581.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00582.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00583.png,1,Speed Limit (30Km/hr),Speed Limit 25,
+Test/00584.png,35,Mandatory direction of travel ahead,Yield,
+Test/00585.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00586.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00587.png,30,Unexpected ice danger,Yield,
+Test/00588.png,5,Speed Limit (80Km/hr),Speed Limit 30,
+Test/00589.png,5,Speed Limit (80Km/hr),Speed Limit 80,
+Test/00590.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00591.png,13,Yeild right of way,Yield,
+Test/00592.png,16,Trucks and tractors over 3.5 tons prohibited,Stop,14.0
+Test/00593.png,17,Entery prohibited,No Entry,
+Test/00594.png,11,Right of way,Yield,
+Test/00595.png,3,Speed Limit (60Km/hr),No Turn,
+Test/00596.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00597.png,29,Bicycle crossing,Yield,
+Test/00598.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00599.png,26,Signal lights ahead,Warning,
+Test/00600.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00601.png,11,Right of way,Yield,
+Test/00602.png,4,Speed Limit (70Km/hr),Speed Limit 70,
+Test/00603.png,19,Single curve left,None,
+Test/00604.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00605.png,9,No Passing,Stop,14.0
+Test/00606.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00607.png,38,Keep right,Traffic Light,
+Test/00608.png,28,Children,Warning Triangle Sign,
+Test/00609.png,9,No Passing,None,
+Test/00610.png,27,Pedestrian crosswalk ahead,Yield,
+Test/00611.png,41,End of no passing zone cars,Stop,14.0
+Test/00612.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00613.png,29,Bicycle crossing,Yield,
+Test/00614.png,11,Right of way,Yield,
+Test/00615.png,10,No Passing for trucks over 3.5 tons,None,
+Test/00616.png,25,Construction side ahead,Yield,
+Test/00617.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00618.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00619.png,38,Keep right,Speed Limit,
+Test/00620.png,30,Unexpected ice danger,Warning,
+Test/00621.png,14,Stop,Stop,14.0
+Test/00622.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00623.png,12,Priotity Road,Yield,
+Test/00624.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00625.png,13,Yeild right of way,Yield,
+Test/00626.png,28,Children,Warning,
+Test/00627.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00628.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00629.png,17,Entery prohibited,Yield,
+Test/00630.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00631.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00632.png,25,Construction side ahead,Warning Sign,
+Test/00633.png,8,Speed Limit (120Km/hr),Stop,14.0
+Test/00634.png,4,Speed Limit (70Km/hr),None,
+Test/00635.png,7,Speed Limit (100Km/hr),Speed Limit 100,
+Test/00636.png,16,Trucks and tractors over 3.5 tons prohibited,Speed Limit,
+Test/00637.png,29,Bicycle crossing,Stop,14.0
+Test/00638.png,17,Entery prohibited,Stop,14.0
+Test/00639.png,9,No Passing,Speed Limit,
+Test/00640.png,7,Speed Limit (100Km/hr),Speed Limit 100,
+Test/00641.png,8,Speed Limit (120Km/hr),Stop,14.0
+Test/00642.png,17,Entery prohibited,Speed Limit,
+Test/00643.png,11,Right of way,Pedestrian Crossing,
+Test/00644.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00645.png,13,Yeild right of way,Yield,
+Test/00646.png,12,Priotity Road,Yield,
+Test/00647.png,7,Speed Limit (100Km/hr),Speed Limit,
+Test/00648.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00649.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00650.png,32,End of restrection,Speed Limit,
+Test/00651.png,17,Entery prohibited,Stop,14.0
+Test/00652.png,13,Yeild right of way,Yield,
+Test/00653.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00654.png,12,Priotity Road,Stop,14.0
+Test/00655.png,11,Right of way,Warning,
+Test/00656.png,29,Bicycle crossing,Yield,
+Test/00657.png,13,Yeild right of way,Yield,
+Test/00658.png,13,Yeild right of way,Yield,
+Test/00659.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00660.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00661.png,13,Yeild right of way,Speed Limit,
+Test/00662.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00663.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00664.png,13,Yeild right of way,Yield,
+Test/00665.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00666.png,14,Stop,Stop,14.0
+Test/00667.png,13,Yeild right of way,Yield,
+Test/00668.png,11,Right of way,Yield,
+Test/00669.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00670.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00671.png,10,No Passing for trucks over 3.5 tons,None,
+Test/00672.png,36,Straight or right,Stop,14.0
+Test/00673.png,35,Mandatory direction of travel ahead,Speed Limit 50,
+Test/00674.png,26,Signal lights ahead,Yield,
+Test/00675.png,0,Speed Limit (20Km/hr),Speed Limit,
+Test/00676.png,25,Construction side ahead,Yield,
+Test/00677.png,18,Danger,Stop,14.0
+Test/00678.png,29,Bicycle crossing,Yield,
+Test/00679.png,8,Speed Limit (120Km/hr),Speed Limit 30,
+Test/00680.png,13,Yeild right of way,Yield,
+Test/00681.png,14,Stop,Stop,14.0
+Test/00682.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00683.png,12,Priotity Road,Yield,
+Test/00684.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00685.png,35,Mandatory direction of travel ahead,Yield,
+Test/00686.png,14,Stop,Stop,14.0
+Test/00687.png,25,Construction side ahead,Warning,
+Test/00688.png,17,Entery prohibited,Yield,
+Test/00689.png,34,Mandatory direction of travel left,Speed Limit,
+Test/00690.png,5,Speed Limit (80Km/hr),Yield,
+Test/00691.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00692.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00693.png,13,Yeild right of way,Yield,
+Test/00694.png,29,Bicycle crossing,Priority road,
+Test/00695.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00696.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00697.png,8,Speed Limit (120Km/hr),Speed Limit 30,
+Test/00698.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00699.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00700.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00701.png,4,Speed Limit (70Km/hr),Speed Limit 70,
+Test/00702.png,39,Keep left,Speed Limit,
+Test/00703.png,12,Priotity Road,Yield,
+Test/00704.png,7,Speed Limit (100Km/hr),Speed Limit 10,
+Test/00705.png,16,Trucks and tractors over 3.5 tons prohibited,Stop,14.0
+Test/00706.png,12,Priotity Road,Speed Limit,
+Test/00707.png,12,Priotity Road,Stop,14.0
+Test/00708.png,18,Danger,Yield,
+Test/00709.png,16,Trucks and tractors over 3.5 tons prohibited,Stop,14.0
+Test/00710.png,2,Speed Limit (50Km/hr),None,
+Test/00711.png,36,Straight or right,Speed Limit,
+Test/00712.png,11,Right of way,Warning,
+Test/00713.png,39,Keep left,Yield,
+Test/00714.png,4,Speed Limit (70Km/hr),Speed Limit 70,
+Test/00715.png,6,End of Speed Limit (80Km/hr),Speed Limit,
+Test/00716.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00717.png,36,Straight or right,One Way,
+Test/00718.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00719.png,5,Speed Limit (80Km/hr),Speed Limit 80,
+Test/00720.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00721.png,13,Yeild right of way,Yield,
+Test/00722.png,5,Speed Limit (80Km/hr),Speed Limit 80,
+Test/00723.png,30,Unexpected ice danger,Speed Limit,
+Test/00724.png,38,Keep right,Speed Limit,
+Test/00725.png,13,Yeild right of way,Yield,
+Test/00726.png,14,Stop,Stop,14.0
+Test/00727.png,11,Right of way,Yield,
+Test/00728.png,11,Right of way,Yield,
+Test/00729.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00730.png,25,Construction side ahead,Yield,
+Test/00731.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00732.png,14,Stop,Stop,14.0
+Test/00733.png,38,Keep right,Stop,14.0
+Test/00734.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00735.png,38,Keep right,Stop,14.0
+Test/00736.png,39,Keep left,Speed Limit,
+Test/00737.png,38,Keep right,Stop,14.0
+Test/00738.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00739.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00740.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00741.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00742.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00743.png,17,Entery prohibited,Stop,14.0
+Test/00744.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00745.png,17,Entery prohibited,Speed Limit,
+Test/00746.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00747.png,2,Speed Limit (50Km/hr),Speed Limit 60,
+Test/00748.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00749.png,30,Unexpected ice danger,Warning,
+Test/00750.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00751.png,28,Children,Yield,
+Test/00752.png,9,No Passing,Speed Limit,
+Test/00753.png,28,Children,Yield,
+Test/00754.png,22,Rough road,Warning,
+Test/00755.png,42,End of no passing zone vehicle over 3.5 tons,Speed Limit,
+Test/00756.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00757.png,12,Priotity Road,Stop,14.0
+Test/00758.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00759.png,23,Slippery road,Stop,14.0
+Test/00760.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00761.png,13,Yeild right of way,Yield,
+Test/00762.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00763.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00764.png,12,Priotity Road,Yield,
+Test/00765.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00766.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00767.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00768.png,3,Speed Limit (60Km/hr),Yield,
+Test/00769.png,9,No Passing,Railroad Crossing,
+Test/00770.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00771.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00772.png,13,Yeild right of way,None,
+Test/00773.png,28,Children,Stop,14.0
+Test/00774.png,3,Speed Limit (60Km/hr),Yield,
+Test/00775.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00776.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00777.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00778.png,0,Speed Limit (20Km/hr),Speed Limit,
+Test/00779.png,33,Mandatory direction of travel right,Speed Limit,
+Test/00780.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00781.png,39,Keep left,Speed Limit,
+Test/00782.png,12,Priotity Road,Yield,
+Test/00783.png,38,Keep right,Speed Limit,
+Test/00784.png,7,Speed Limit (100Km/hr),Speed Limit 100,
+Test/00785.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00786.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00787.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00788.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00789.png,38,Keep right,Speed Limit 30,
+Test/00790.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00791.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00792.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00793.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00794.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00795.png,42,End of no passing zone vehicle over 3.5 tons,Speed Limit,
+Test/00796.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00797.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00798.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00799.png,15,Prohibited for all vehicles,Yield,
+Test/00800.png,38,Keep right,Speed Limit,
+Test/00801.png,25,Construction side ahead,Pedestrian Crossing,
+Test/00802.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00803.png,5,Speed Limit (80Km/hr),Speed Limit 80,
+Test/00804.png,12,Priotity Road,Speed Limit,
+Test/00805.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00806.png,26,Signal lights ahead,Speed Limit,
+Test/00807.png,0,Speed Limit (20Km/hr),Speed Limit 20,
+Test/00808.png,17,Entery prohibited,Speed Limit,
+Test/00809.png,0,Speed Limit (20Km/hr),Speed Limit,
+Test/00810.png,26,Signal lights ahead,Warning Sign,
+Test/00811.png,31,Wild animal crossing,Stop,14.0
+Test/00812.png,4,Speed Limit (70Km/hr),Stop,14.0
+Test/00813.png,13,Yeild right of way,Stop,14.0
+Test/00814.png,17,Entery prohibited,Speed Limit,
+Test/00815.png,1,Speed Limit (30Km/hr),Speed Limit,
+Test/00816.png,11,Right of way,Yield,
+Test/00817.png,8,Speed Limit (120Km/hr),Stop,14.0
+Test/00818.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00819.png,2,Speed Limit (50Km/hr),Yield,
+Test/00820.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00821.png,14,Stop,Stop,14.0
+Test/00822.png,3,Speed Limit (60Km/hr),Yield,
+Test/00823.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00824.png,25,Construction side ahead,Yield,
+Test/00825.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00826.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00827.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00828.png,38,Keep right,Speed Limit,
+Test/00829.png,27,Pedestrian crosswalk ahead,Yield,
+Test/00830.png,37,Straight or left,Stop,14.0
+Test/00831.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00832.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00833.png,18,Danger,None,
+Test/00834.png,28,Children,Yield,
+Test/00835.png,11,Right of way,Yield,
+Test/00836.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00837.png,9,No Passing,Speed Limit,
+Test/00838.png,15,Prohibited for all vehicles,Speed Limit,
+Test/00839.png,11,Right of way,Yield,
+Test/00840.png,12,Priotity Road,Yield,
+Test/00841.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00842.png,13,Yeild right of way,Yield,
+Test/00843.png,13,Yeild right of way,Yield,
+Test/00844.png,25,Construction side ahead,Yield,
+Test/00845.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00846.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00847.png,38,Keep right,No Entry,
+Test/00848.png,12,Priotity Road,Yield,
+Test/00849.png,23,Slippery road,Yield,
+Test/00850.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00851.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00852.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00853.png,29,Bicycle crossing,Bicycle Crossing,29.0
+Test/00854.png,24,Road narrows,Yield,
+Test/00855.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00856.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00857.png,28,Children,Yield,
+Test/00858.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00859.png,11,Right of way,Yield,
+Test/00860.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00861.png,6,End of Speed Limit (80Km/hr),Speed Limit,
+Test/00862.png,9,No Passing,Stop,14.0
+Test/00863.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00864.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00865.png,33,Mandatory direction of travel right,Stop,14.0
+Test/00866.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00867.png,9,No Passing,Speed Limit,
+Test/00868.png,25,Construction side ahead,Pedestrian Crossing,
+Test/00869.png,16,Trucks and tractors over 3.5 tons prohibited,Yield,
+Test/00870.png,42,End of no passing zone vehicle over 3.5 tons,Speed Limit,
+Test/00871.png,35,Mandatory direction of travel ahead,Speed Limit,
+Test/00872.png,10,No Passing for trucks over 3.5 tons,Stop,14.0
+Test/00873.png,28,Children,Yield,
+Test/00874.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00875.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00876.png,7,Speed Limit (100Km/hr),Speed Limit 40,
+Test/00877.png,5,Speed Limit (80Km/hr),Yield,
+Test/00878.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00879.png,23,Slippery road,Yield,
+Test/00880.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00881.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00882.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00883.png,30,Unexpected ice danger,Warning,
+Test/00884.png,35,Mandatory direction of travel ahead,One-way,
+Test/00885.png,24,Road narrows,Yield,
+Test/00886.png,33,Mandatory direction of travel right,Speed Limit 60,
+Test/00887.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00888.png,12,Priotity Road,Yield,
+Test/00889.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00890.png,13,Yeild right of way,Yield,
+Test/00891.png,13,Yeild right of way,Speed Limit,
+Test/00892.png,33,Mandatory direction of travel right,Yield,
+Test/00893.png,17,Entery prohibited,Stop,14.0
+Test/00894.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00895.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00896.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00897.png,31,Wild animal crossing,Stop,14.0
+Test/00898.png,33,Mandatory direction of travel right,Speed Limit,
+Test/00899.png,42,End of no passing zone vehicle over 3.5 tons,Stop,14.0
+Test/00900.png,11,Right of way,Yield,
+Test/00901.png,24,Road narrows,Warning Sign,
+Test/00902.png,38,Keep right,Stop,14.0
+Test/00903.png,4,Speed Limit (70Km/hr),None,
+Test/00904.png,27,Pedestrian crosswalk ahead,Pedestrian Crossing,
+Test/00905.png,7,Speed Limit (100Km/hr),Speed Limit 10,
+Test/00906.png,13,Yeild right of way,Yield,
+Test/00907.png,21,Double curve,Yield,
+Test/00908.png,38,Keep right,Yield,
+Test/00909.png,38,Keep right,Speed Limit,
+Test/00910.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00911.png,13,Yeild right of way,Yield,
+Test/00912.png,23,Slippery road,Yield,
+Test/00913.png,13,Yeild right of way,Speed Limit,
+Test/00914.png,18,Danger,Stop,14.0
+Test/00915.png,13,Yeild right of way,Yield,
+Test/00916.png,13,Yeild right of way,Yield,
+Test/00917.png,38,Keep right,Speed Limit,
+Test/00918.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00919.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00920.png,12,Priotity Road,Yield,
+Test/00921.png,25,Construction side ahead,Yield,
+Test/00922.png,4,Speed Limit (70Km/hr),Speed Limit,
+Test/00923.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00924.png,19,Single curve left,Speed Limit,
+Test/00925.png,3,Speed Limit (60Km/hr),Stop,14.0
+Test/00926.png,9,No Passing,Speed Limit,
+Test/00927.png,2,Speed Limit (50Km/hr),Speed Limit 50,
+Test/00928.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00929.png,17,Entery prohibited,Stop,14.0
+Test/00930.png,38,Keep right,Speed Limit,
+Test/00931.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00932.png,5,Speed Limit (80Km/hr),Speed Limit 30,
+Test/00933.png,38,Keep right,Speed Limit,
+Test/00934.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00935.png,11,Right of way,Yield,
+Test/00936.png,31,Wild animal crossing,Speed Limit,
+Test/00937.png,2,Speed Limit (50Km/hr),Stop,14.0
+Test/00938.png,42,End of no passing zone vehicle over 3.5 tons,Stop,14.0
+Test/00939.png,12,Priotity Road,Speed Limit,
+Test/00940.png,35,Mandatory direction of travel ahead,Stop,14.0
+Test/00941.png,29,Bicycle crossing,Warning: Bicycles,
+Test/00942.png,38,Keep right,Speed Limit,
+Test/00943.png,0,Speed Limit (20Km/hr),Yield,
+Test/00944.png,38,Keep right,Speed Limit 30,
+Test/00945.png,10,No Passing for trucks over 3.5 tons,Speed Limit 60,
+Test/00946.png,13,Yeild right of way,Yield,
+Test/00947.png,1,Speed Limit (30Km/hr),Stop,14.0
+Test/00948.png,34,Mandatory direction of travel left,Yield,
+Test/00949.png,22,Rough road,Yield,
+Test/00950.png,12,Priotity Road,Speed Limit,
+Test/00951.png,31,Wild animal crossing,None,
+Test/00952.png,15,Prohibited for all vehicles,Yield,
+Test/00953.png,13,Yeild right of way,Stop,14.0
+Test/00954.png,31,Wild animal crossing,Stop,14.0
+Test/00955.png,1,Speed Limit (30Km/hr),Speed Limit 30,
+Test/00956.png,42,End of no passing zone vehicle over 3.5 tons,Speed Limit,
+Test/00957.png,36,Straight or right,Speed Limit,
+Test/00958.png,7,Speed Limit (100Km/hr),Speed Limit,
+Test/00959.png,20,Single curve right,Stop,14.0
+Test/00960.png,27,Pedestrian crosswalk ahead,Yield,
+Test/00961.png,15,Prohibited for all vehicles,Stop,14.0
+Test/00962.png,12,Priotity Road,Yield,
+Test/00963.png,14,Stop,Stop,14.0
+Test/00964.png,10,No Passing for trucks over 3.5 tons,Speed Limit 60,
+Test/00965.png,5,Speed Limit (80Km/hr),Stop,14.0
+Test/00966.png,32,End of restrection,Speed Limit,
+Test/00967.png,3,Speed Limit (60Km/hr),Speed Limit,
+Test/00968.png,7,Speed Limit (100Km/hr),Speed Limit 100,
+Test/00969.png,13,Yeild right of way,Yield,
+Test/00970.png,12,Priotity Road,Stop,14.0
+Test/00971.png,7,Speed Limit (100Km/hr),Speed Limit 110,
+Test/00972.png,13,Yeild right of way,Yield,
+Test/00973.png,4,Speed Limit (70Km/hr),Speed Limit 70,
+Test/00974.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00975.png,8,Speed Limit (120Km/hr),Speed Limit,
+Test/00976.png,23,Slippery road,Yield,
+Test/00977.png,10,No Passing for trucks over 3.5 tons,None,
+Test/00978.png,39,Keep left,Yield,
+Test/00979.png,2,Speed Limit (50Km/hr),Speed Limit,
+Test/00980.png,13,Yeild right of way,Yield,
+Test/00981.png,7,Speed Limit (100Km/hr),Stop,14.0
+Test/00982.png,1,Speed Limit (30Km/hr),Yield,
+Test/00983.png,5,Speed Limit (80Km/hr),Yield,
+Test/00984.png,31,Wild animal crossing,Stop,14.0
+Test/00985.png,10,No Passing for trucks over 3.5 tons,Speed Limit,
+Test/00986.png,5,Speed Limit (80Km/hr),Speed Limit,
+Test/00987.png,31,Wild animal crossing,Stop,14.0
+Test/00988.png,7,Speed Limit (100Km/hr),Speed Limit 25,
+Test/00989.png,39,Keep left,Yield,
+Test/00990.png,0,Speed Limit (20Km/hr),Speed Limit,
+Test/00991.png,23,Slippery road,Curve Ahead,
+Test/00992.png,7,Speed Limit (100Km/hr),None,
+Test/00993.png,38,Keep right,Stop,14.0
+Test/00994.png,35,Mandatory direction of travel ahead,Speed Limit 30,
+Test/00995.png,38,Keep right,Stop,14.0
+Test/00996.png,25,Construction side ahead,Yield,
+Test/00997.png,38,Keep right,Stop,14.0
+Test/00998.png,9,No Passing,Yield,
+Test/00999.png,16,Trucks and tractors over 3.5 tons prohibited,Speed Limit 60,

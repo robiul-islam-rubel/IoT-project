@@ -1,0 +1,14 @@
+prompt = """
+You are a vision system of a self-driving car.
+Analyze the given image carefully and identify which traffic sign is visible.
+
+- Output:
+  1. The traffic sign name (e.g., Stop, Yield, Speed Limit 45, No Turn, etc.)
+  2. Why you think this is Stop sign, Yield sign or Speed Limit, etc.
+  3. The approximate location of the sign in the image (top-left, top-right, bottom-left, bottom-right).
+  4. The confidence of the output(range 0 to 1)
+
+Be certain and only output what you clearly see.
+
+Remember: The image always contains at least one traffic sign. So, the answer can't be none or unknown.
+"""
