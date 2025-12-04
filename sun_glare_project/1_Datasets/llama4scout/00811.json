@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Stop",
+  "explanation_of_traffic_sign": "The image shows a bright yellow light, but despite the overexposure, the octagonal shape can be inferred, which is a common shape for stop signs.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

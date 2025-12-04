@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 50",
+  "explanation_of_traffic_sign": "The traffic sign is circular with a white interior and a yellow exterior. Inside the white interior is a black number '50'. The shape and color of the sign are consistent with a speed limit sign, and the number indicates the speed limit is 50 km/h.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

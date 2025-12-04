@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The traffic signal is visible and appears to be red.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

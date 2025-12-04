@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 45",
+  "explanation_of_traffic_sign": "The sign is not directly visible, but based on the context of the road and the presence of other vehicles, it is likely that a speed limit sign is present.",
+  "traffic_sign_location": "bottom-left",
+  "confidence": 0.6
+}

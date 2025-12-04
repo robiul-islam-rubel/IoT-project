@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The circular shape with a red border and a light yellow interior, containing a white center, is commonly associated with speed limit signs, particularly in regions where the standard speed limit sign has a white center.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

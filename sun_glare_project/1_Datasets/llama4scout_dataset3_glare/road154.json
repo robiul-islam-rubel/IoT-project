@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Pedestrian Crossing",
+  "explanation_of_traffic_sign": "The sign shows a blue triangle with a white interior and a pedestrian symbol, which is a universal sign for pedestrian crossing.",
+  "traffic_sign_location": "top-left and top-right",
+  "confidence": 0.95
+}

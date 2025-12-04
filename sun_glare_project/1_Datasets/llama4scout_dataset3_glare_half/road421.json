@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign is circular with a white center and an orange border, indicating a traffic light, specifically a yellow traffic light.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

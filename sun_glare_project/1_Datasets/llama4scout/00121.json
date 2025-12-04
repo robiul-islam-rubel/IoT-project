@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 10",
+  "explanation_of_traffic_sign": "The image shows a circular sign with a bright yellow light in the center and a red border. Inside the red border, there is a white circle, and inside the white circle, there is a number '10' which is likely to indicate a speed limit.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

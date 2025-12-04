@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Stop Ahead",
+  "explanation_of_traffic_sign": "The sign is a red octagonal sign with white lettering, which is a standard design for a 'Stop' sign. However, the sign is not fully visible, and only the red color is seen, indicating it might be a 'Stop Ahead' warning sign.",
+  "traffic_sign_location": "top-right",
+  "confidence": 0.8
+}

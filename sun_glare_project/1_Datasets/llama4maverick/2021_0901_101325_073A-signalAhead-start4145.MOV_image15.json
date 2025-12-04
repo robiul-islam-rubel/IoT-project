@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The image shows a road with traffic lights visible in the distance, indicating that drivers need to follow the signals.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

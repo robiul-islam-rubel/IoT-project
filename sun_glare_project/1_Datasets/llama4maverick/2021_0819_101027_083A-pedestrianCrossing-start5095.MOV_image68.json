@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Turn On Red",
+  "explanation_of_traffic_sign": "The sign is a red circle with a white interior and a black 'No Turn On Red' symbol, indicating that drivers are not allowed to turn on a red light.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.8
+}

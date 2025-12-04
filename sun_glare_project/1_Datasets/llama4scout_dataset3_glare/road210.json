@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 40",
+  "explanation_of_traffic_sign": "The sign is circular with a white interior and a black border. Inside the circle, there is a black number '40'. Above the circle, there is a black text that reads 'km/h'. The sign indicates a speed limit of 40 kilometers per hour.",
+  "traffic_sign_location": "center-right",
+  "confidence": 0.99
+}

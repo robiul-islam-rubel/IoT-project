@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 60",
+  "explanation_of_traffic_sign": "The sign is a rectangular white sign with black text and a red border, displaying '60km/h'.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

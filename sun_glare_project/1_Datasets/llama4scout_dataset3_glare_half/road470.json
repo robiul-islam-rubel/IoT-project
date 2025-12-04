@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Bus Lane",
+  "explanation_of_traffic_sign": "The sign features a blue rectangle with a white bus icon inside, indicating that this is a lane reserved for buses or other authorized vehicles, and other vehicles are not allowed to use it.",
+  "traffic_sign_location": "bottom-left",
+  "confidence": 0.9
+}

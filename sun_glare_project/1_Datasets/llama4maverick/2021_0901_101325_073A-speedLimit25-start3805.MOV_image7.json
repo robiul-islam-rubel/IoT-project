@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Yield",
+  "explanation_of_traffic_sign": "The image shows a road with a merging lane from the left. The presence of a yield sign is inferred due to the merging lane, which typically requires drivers to yield to oncoming traffic.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.8
+}

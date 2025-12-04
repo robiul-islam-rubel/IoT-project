@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "One-way",
+  "explanation_of_traffic_sign": "The sign features a blue circular background with a yellow upward-pointing arrow, indicating traffic can only flow in one direction.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The circular shape and the bright center suggest a speed limit sign, commonly depicted as a round sign with a specific number in the center.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

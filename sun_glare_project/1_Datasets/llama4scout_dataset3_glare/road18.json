@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a yellow light illuminated, indicating caution or prepare to stop. The traffic light is a common traffic control device used to manage the flow of traffic.",
+  "traffic_sign_location": "center of the image",
+  "confidence": 0.9
+}

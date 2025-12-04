@@ -1,7 +1,4 @@
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-Results/
-1_Datasets/
+
+1_Datasets/*.png
+1_Datasets/*.jpg
+1_Datasets/*.jpeg

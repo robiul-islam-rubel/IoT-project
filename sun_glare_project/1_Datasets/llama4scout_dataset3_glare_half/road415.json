@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The sign has a circular shape with a white center and a yellow border, indicating it is a traffic signal. Below the circular sign, there is a rectangular sign with a downward-pointing arrow.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

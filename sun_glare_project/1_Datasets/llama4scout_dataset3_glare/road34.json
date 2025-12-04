@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with three lights, one on top and two on the bottom. The top light is yellow and white, the top light of the bottom two is clear or white, and the bottom light of the two is green.",
+  "traffic_sign_location": "center",
+  "confidence": 1.0
+}

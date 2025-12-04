@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 30",
+  "explanation_of_traffic_sign": "The image shows a circular sign with a red border and the number 30 in the center. This is a common design for speed limit signs, and the number 30 indicates the speed limit in kilometers per hour or miles per hour.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

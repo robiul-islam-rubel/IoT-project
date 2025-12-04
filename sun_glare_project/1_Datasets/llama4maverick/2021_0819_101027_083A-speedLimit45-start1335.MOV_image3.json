@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Merge",
+  "explanation_of_traffic_sign": "The road is merging into a single lane from two lanes.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

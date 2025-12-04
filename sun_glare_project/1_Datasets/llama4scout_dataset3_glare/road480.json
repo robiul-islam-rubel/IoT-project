@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 80",
+  "explanation_of_traffic_sign": "The sign is circular with a yellow background and an orange border. Inside the circle, there is a white section with the number '80' in gray, indicating a speed limit.",
+  "traffic_sign_location": "top-center",
+  "confidence": 1.0
+}

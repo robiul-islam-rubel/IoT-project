@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The image shows a traffic signal with a green light visible on the right side, indicating that drivers have the right of way to proceed.",
+  "traffic_sign_location": "top-right",
+  "confidence": 0.9
+}

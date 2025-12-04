@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The image shows a circular sign with a bright yellow light in the center, which is commonly associated with speed limit signs, especially in low-light conditions or when illuminated.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

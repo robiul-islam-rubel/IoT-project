@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The circular yellow light with a white center is characteristic of a traffic light, specifically indicating caution or a transition to red.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

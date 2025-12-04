@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 120",
+  "explanation_of_traffic_sign": "The sign is circular with a red border and a white interior, containing the number 120 in black text. There is a small icon of a car underneath, indicating that this speed limit applies to cars.",
+  "traffic_sign_location": "middle-left",
+  "confidence": 0.99
+}

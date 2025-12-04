@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign is circular with a yellow border and a white center, indicating a traffic light, specifically a caution or warning light.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

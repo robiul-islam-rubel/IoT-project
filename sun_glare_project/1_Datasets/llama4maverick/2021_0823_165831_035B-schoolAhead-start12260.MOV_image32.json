@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "U-Turn",
+  "explanation_of_traffic_sign": "The sign is visible on both sides of the road, indicating that U-turns are allowed.",
+  "traffic_sign_location": "top-left, top-right",
+  "confidence": 0.9
+}

@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Merge Left",
+  "explanation_of_traffic_sign": "The sign on the left side of the image has an arrow pointing to the top-right, indicating a merge to the left lane.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.8
+}

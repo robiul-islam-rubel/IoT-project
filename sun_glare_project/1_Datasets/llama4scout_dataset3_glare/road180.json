@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Lane Merge",
+  "explanation_of_traffic_sign": "The sign shows two lanes merging into one, indicating that drivers should be prepared to yield or merge.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

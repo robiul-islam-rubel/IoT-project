@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Circular Traffic Signal",
+  "explanation_of_traffic_sign": "The sign is a circular traffic signal with a yellow ring and a white center, indicating a warning or caution.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

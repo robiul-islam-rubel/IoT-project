@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Turn Left",
+  "explanation_of_traffic_sign": "The traffic light has a green arrow pointing left, indicating that it is permissible to turn left.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

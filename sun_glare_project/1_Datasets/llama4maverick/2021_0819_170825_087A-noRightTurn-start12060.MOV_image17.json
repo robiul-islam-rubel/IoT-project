@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The image shows a traffic signal with red lights hanging from wires above the road, indicating that drivers should stop.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

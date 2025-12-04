@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light with Arrow Down",
+  "explanation_of_traffic_sign": "The sign is a traffic light with an additional rectangular sign below it featuring a black arrow pointing downwards. This indicates that the traffic light applies to traffic moving in the direction of the arrow.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.99
+}

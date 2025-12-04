@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 30",
+  "explanation_of_traffic_sign": "The sign is circular with a red border and a white interior. The number 30 is prominently displayed in black within the white circle. This matches the common design for speed limit signs in many countries, which use a red circle with a white interior and a black number indicating the speed limit.",
+  "traffic_sign_location": "Center",
+  "confidence": 0.99
+}

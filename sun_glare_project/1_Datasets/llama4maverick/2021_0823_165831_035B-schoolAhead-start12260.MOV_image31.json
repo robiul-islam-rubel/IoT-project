@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Right Turn Only",
+  "explanation_of_traffic_sign": "The sign is identified by the text 'RIGHT TURN ONLY' on the road, indicating that drivers can only turn right at this intersection.",
+  "traffic_sign_location": "bottom-left",
+  "confidence": 0.9
+}

@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Overtaking",
+  "explanation_of_traffic_sign": "The traffic sign is a blue circle with a red border and two red lines crossing in the middle, forming an 'X' shape. This is a common sign used to indicate that overtaking is not allowed.",
+  "traffic_sign_location": "center",
+  "confidence": 0.99
+}

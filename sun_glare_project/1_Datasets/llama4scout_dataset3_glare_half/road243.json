@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 90",
+  "explanation_of_traffic_sign": "The sign is round with a white number inside and a red border. The number 90 is clearly visible, indicating a speed limit.",
+  "traffic_sign_location": "center of the image, on the right side of the road",
+  "confidence": 0.9
+}

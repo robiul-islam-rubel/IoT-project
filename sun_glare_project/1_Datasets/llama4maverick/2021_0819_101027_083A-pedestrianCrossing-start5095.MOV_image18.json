@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Merge",
+  "explanation_of_traffic_sign": "The traffic sign visible is a yellow diamond-shaped sign indicating a merge ahead, typically used to warn drivers of a lane closure or merging traffic.",
+  "traffic_sign_location": "top-right",
+  "confidence": 0.9
+}

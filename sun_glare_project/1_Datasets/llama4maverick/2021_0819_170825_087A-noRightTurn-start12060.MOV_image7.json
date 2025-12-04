@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Merge",
+  "explanation_of_traffic_sign": "The sign is a merge sign, indicating that traffic from the right lane will merge into the lane the car is currently in.",
+  "traffic_sign_location": "top-right",
+  "confidence": 0.8
+}

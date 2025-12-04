@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign is circular with a yellow light illuminated in the center, indicating that it is a traffic light showing a yellow light.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

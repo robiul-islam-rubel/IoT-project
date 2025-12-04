@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign is a traffic light with a yellow light illuminated, indicating that it is currently in the caution or warning phase.",
+  "traffic_sign_location": "center of the image",
+  "confidence": 0.9
+}

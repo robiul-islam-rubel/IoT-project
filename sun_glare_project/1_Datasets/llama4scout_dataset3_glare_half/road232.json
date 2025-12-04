@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 100",
+  "explanation_of_traffic_sign": "The sign is round with a black border and a white interior, containing the number 100 in black text. This is a common design for speed limit signs in many countries.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

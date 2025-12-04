@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Red Light",
+  "explanation_of_traffic_sign": "The traffic light is red, indicating that drivers should stop.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.95
+}

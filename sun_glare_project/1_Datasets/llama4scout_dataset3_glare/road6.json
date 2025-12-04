@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a yellow light illuminated, indicating caution or prepare to stop. There is no traditional traffic sign like Stop, Yield, or Speed Limit visible, but a traffic light which is a critical sign for navigation.",
+  "traffic_sign_location": "Center",
+  "confidence": 0.9
+}

@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Turn",
+  "explanation_of_traffic_sign": "The image shows a sign with two symbols, both indicating 'No Turn'. The top symbol shows a vehicle turning left, and the bottom symbol shows a vehicle turning right, both with a red circle and a diagonal line through them, indicating that turning is not allowed.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

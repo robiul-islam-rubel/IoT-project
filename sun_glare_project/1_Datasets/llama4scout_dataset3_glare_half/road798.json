@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 100",
+  "explanation_of_traffic_sign": "The sign is circular with a white interior and a black border. Inside the circle, there is a black '100'. The number is likely indicating a speed limit in kilometers per hour, as suggested by the context and common traffic sign conventions.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

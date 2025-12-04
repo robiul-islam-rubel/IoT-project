@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Commercial Vehicles",
+  "explanation_of_traffic_sign": "The sign is a rectangular sign with a red circle and a line through it, indicating prohibition. Inside the circle is a picture of a truck, which clearly indicates that commercial vehicles are not allowed.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.99
+}

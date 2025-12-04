@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "One Way",
+  "explanation_of_traffic_sign": "The traffic sign is a rectangular sign with white text on a black background, indicating that traffic can only flow in one direction.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 25",
+  "explanation_of_traffic_sign": "The given image shows a yellow circle with a red border. Inside the circle, there is a number '25'. The shape and color of the sign are consistent with a speed limit sign, and the number indicates the speed limit in miles per hour.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

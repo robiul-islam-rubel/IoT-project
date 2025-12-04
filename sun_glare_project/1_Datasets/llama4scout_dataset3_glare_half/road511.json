@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Bus Stop",
+  "explanation_of_traffic_sign": "The sign features a white rectangle on top of a blue rectangle with a black bus icon in the center, indicating a designated area for buses to stop.",
+  "traffic_sign_location": "center of the image",
+  "confidence": 0.98
+}

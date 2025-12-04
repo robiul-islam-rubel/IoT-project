@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign has three lights, with the top light being red, the middle light being red, and the bottom light being green, and an arrow pointing to the right.",
+  "traffic_sign_location": "center",
+  "confidence": 0.99
+}

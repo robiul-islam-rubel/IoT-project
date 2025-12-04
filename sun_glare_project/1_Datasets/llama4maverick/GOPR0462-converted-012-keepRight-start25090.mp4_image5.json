@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a road scene with traffic lights hanging above the road. The traffic lights are visible and appear to be green, indicating that drivers can proceed.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

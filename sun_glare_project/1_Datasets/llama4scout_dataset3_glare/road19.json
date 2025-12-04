@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign has a green light, which is commonly used in traffic lights to indicate that it is safe to proceed.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

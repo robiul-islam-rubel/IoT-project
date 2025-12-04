@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 5",
+  "explanation_of_traffic_sign": "The sign has a number '5' inside, which indicates a speed limit.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The image shows a bright yellow light, but through image processing, I can see a faded number in the center of the light. The number appears to be 30.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

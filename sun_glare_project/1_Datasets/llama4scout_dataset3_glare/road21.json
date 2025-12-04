@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The traffic sign is a traffic signal with a yellow color and red light illuminated, indicating that drivers should stop.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

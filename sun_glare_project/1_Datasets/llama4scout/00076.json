@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 30",
+  "explanation_of_traffic_sign": "The image shows a blurry, circular sign with a bright yellow center and a red border. Although the image is blurry, the circular shape and the color of the sign are similar to a speed limit sign. The number is not clear, but based on common speed limit signs, I assume it is 30.",
+  "traffic_sign_location": "center",
+  "confidence": 0.6
+}

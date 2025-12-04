@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a yellow light illuminated, indicating a transition from green to red. The traffic light is a standard vertical signal with three lights: red (top), yellow (middle), and green (bottom).",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

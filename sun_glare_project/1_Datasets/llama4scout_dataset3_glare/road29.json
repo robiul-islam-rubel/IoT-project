@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Street Name Sign",
+  "explanation_of_traffic_sign": "The sign displays a street name in both English and Japanese characters.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

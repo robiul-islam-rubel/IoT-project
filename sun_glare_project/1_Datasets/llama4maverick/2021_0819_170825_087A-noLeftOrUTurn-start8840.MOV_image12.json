@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Turn On Red",
+  "explanation_of_traffic_sign": "The sign is a red circle with a white interior and a black graphic of a left turn arrow with a red 'X' through it, indicating 'No Turn On Red'.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

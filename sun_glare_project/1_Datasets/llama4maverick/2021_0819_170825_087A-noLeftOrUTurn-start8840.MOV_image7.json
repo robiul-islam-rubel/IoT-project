@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Turn",
+  "explanation_of_traffic_sign": "The sign is a red circle with a white interior and a black icon of a person walking. There is a red diagonal line through the icon, indicating that the action represented by the icon is prohibited. The icon represents pedestrian traffic, and the sign indicates that pedestrians are not allowed to proceed in the direction shown.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

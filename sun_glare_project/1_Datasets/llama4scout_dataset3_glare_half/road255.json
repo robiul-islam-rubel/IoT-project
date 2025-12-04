@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Lane Direction",
+  "explanation_of_traffic_sign": "The sign indicates allowed directions for traffic flow with three white arrows on a blue background.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

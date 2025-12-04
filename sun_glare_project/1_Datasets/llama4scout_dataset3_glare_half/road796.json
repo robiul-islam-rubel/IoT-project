@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 100",
+  "explanation_of_traffic_sign": "The sign shows a number '100' inside a red circle, which is a universal symbol for speed limit.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

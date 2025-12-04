@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign has a yellow circle with a white interior and a number 9 inside, indicating a countdown timer for a traffic light.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.99
+}

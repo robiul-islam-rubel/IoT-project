@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 45",
+  "explanation_of_traffic_sign": "The traffic sign is circular with a white interior and a yellow border. Inside the circle, there is a black number '45'. This matches the common design for speed limit signs in many countries.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

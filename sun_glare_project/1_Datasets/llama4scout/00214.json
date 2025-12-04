@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Warning",
+  "explanation_of_traffic_sign": "The given image shows a yellow circle inside a triangle with a thick border, which is a universal sign for warning or caution.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

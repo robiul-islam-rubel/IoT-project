@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Warning: Pedestrian Crossing",
+  "explanation_of_traffic_sign": "The sign is a blue square with a white triangle in the center, containing a symbol of a pedestrian. This is a common sign used to warn drivers of a pedestrian crossing ahead.",
+  "traffic_sign_location": "center",
+  "confidence": 0.99
+}

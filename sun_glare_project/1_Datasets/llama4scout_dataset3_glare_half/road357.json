@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light with Arrow Sign",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a yellow light illuminated, indicating caution or prepare to stop. Below the traffic light, there is a blue sign with white arrows pointing in different directions (down, down, and up). This sign appears to be a directional sign indicating allowed traffic movements.",
+  "traffic_sign_location": "Center of the image for the traffic light, bottom-center for the arrow sign",
+  "confidence": 0.9
+}

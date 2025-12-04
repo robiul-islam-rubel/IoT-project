@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Lane Guidance Sign",
+  "explanation_of_traffic_sign": "The sign features three white arrows pointing upwards on a blue background, indicating lane guidance for drivers.",
+  "traffic_sign_location": "bottom-center",
+  "confidence": 0.98
+}

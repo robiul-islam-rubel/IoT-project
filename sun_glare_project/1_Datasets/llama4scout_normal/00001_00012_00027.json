@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 20",
+  "explanation_of_traffic_sign": "The image shows a circular sign with a red border and a white interior. Inside the white interior, there is a black number '20'. This matches the common design of a speed limit sign.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

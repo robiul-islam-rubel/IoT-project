@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The image shows a bright yellow light, but after careful analysis, I can see a number in the center which seems to be 60, which is commonly seen on speed limit signs.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

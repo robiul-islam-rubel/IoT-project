@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign is circular with a yellow background and an orange ring around it, indicating a traffic light, specifically a yellow or caution light.",
+  "traffic_sign_location": "Center",
+  "confidence": 0.9
+}

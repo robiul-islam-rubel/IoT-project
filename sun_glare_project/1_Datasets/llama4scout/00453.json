@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Circle",
+  "explanation_of_traffic_sign": "The sign is circular with arrows pointing in a circular motion, indicating a traffic circle or roundabout ahead.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

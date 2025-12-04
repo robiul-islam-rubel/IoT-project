@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 80",
+  "explanation_of_traffic_sign": "The traffic sign is partially visible behind a pole and a tree. The top part of the sign is visible, and it appears to have a red border with white text that reads 'ALL' in large letters, but based on the visible part and common traffic signs, it seems to be an Alberta speed limit sign which often has the format 'Speed Limit' followed by a number. Given the context and usual sign configurations, it seems likely that the sign indicates a speed limit, and in Alberta, a common speed limit is 80 km/h for highways.",
+  "traffic_sign_location": "center-right",
+  "confidence": 0.8
+}

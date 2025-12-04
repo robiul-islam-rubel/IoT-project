@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a series of lights hanging from a cable, which is characteristic of a traffic light setup, typically used to control the flow of traffic at intersections.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

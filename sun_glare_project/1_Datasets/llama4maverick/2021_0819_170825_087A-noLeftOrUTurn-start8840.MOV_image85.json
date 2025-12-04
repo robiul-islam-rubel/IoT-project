@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The image shows a road with multiple traffic lights hanging above it, indicating that drivers should follow the signals to navigate the intersection or road ahead.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

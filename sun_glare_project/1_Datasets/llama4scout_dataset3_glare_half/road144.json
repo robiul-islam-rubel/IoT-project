@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Pedestrian Crossing",
+  "explanation_of_traffic_sign": "The sign is a yellow triangle with a blue background and a symbol of a person walking, which is a universal sign for pedestrian crossing.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

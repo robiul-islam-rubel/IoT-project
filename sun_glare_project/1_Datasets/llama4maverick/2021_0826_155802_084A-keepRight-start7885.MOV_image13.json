@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Turn On Red",
+  "explanation_of_traffic_sign": "The traffic sign is identified as 'No Turn On Red' because the camera captures a traffic light with a sign below it indicating 'NO TURN ON RED'.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

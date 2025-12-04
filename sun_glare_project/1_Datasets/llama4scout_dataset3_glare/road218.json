@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 60",
+  "explanation_of_traffic_sign": "The traffic sign is a circular sign with a black border and white interior, featuring a black number '60' inside. This is a common design for speed limit signs in many countries.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

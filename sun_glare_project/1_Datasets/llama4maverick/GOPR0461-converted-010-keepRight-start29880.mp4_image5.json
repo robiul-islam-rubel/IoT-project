@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Green Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a green light illuminated, indicating that drivers can proceed.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The image shows a bright yellow light, but in the center of the light, there is a white octagon shape which is commonly associated with a speed limit sign, although the number is not visible.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

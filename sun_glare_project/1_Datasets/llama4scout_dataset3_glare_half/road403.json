@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Radar Speed Camera",
+  "explanation_of_traffic_sign": "The sign features a camera icon and the text 'Radar' and '60km/h' indicating a speed camera is present, monitoring for vehicles exceeding 60km/h.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.99
+}

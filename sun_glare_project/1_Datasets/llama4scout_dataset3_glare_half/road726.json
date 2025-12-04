@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Passing",
+  "explanation_of_traffic_sign": "The sign features two cars facing each other, one red and one black, inside a red circle with a horizontal line through the middle, indicating that passing is not allowed.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

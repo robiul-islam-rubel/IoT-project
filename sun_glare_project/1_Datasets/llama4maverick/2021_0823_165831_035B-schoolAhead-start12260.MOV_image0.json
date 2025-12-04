@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "U-Turn Only",
+  "explanation_of_traffic_sign": "The road is marked with 'ONLY' and has a U-turn arrow, indicating that only U-turns are allowed.",
+  "traffic_sign_location": "bottom-left",
+  "confidence": 0.9
+}

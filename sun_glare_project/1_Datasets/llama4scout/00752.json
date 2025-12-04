@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The image shows a bright yellow light and a red circle in the upper part of the image. Although the image is blurry, I can see a number in the center of the red circle.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.8
+}

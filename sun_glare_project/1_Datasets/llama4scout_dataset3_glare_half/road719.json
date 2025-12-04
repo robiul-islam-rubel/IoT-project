@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 20",
+  "explanation_of_traffic_sign": "The sign is circular with a white background and black text that reads '20'. It is a speed limit sign, indicating the maximum speed allowed on this road is 20 km/h.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

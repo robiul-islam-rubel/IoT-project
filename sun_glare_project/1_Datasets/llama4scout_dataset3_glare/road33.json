@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a yellow light illuminated, indicating a transition from green to red. The sign has three lights arranged vertically, with the top light being yellow, the middle light being dark, and the bottom light being dark.",
+  "traffic_sign_location": "center",
+  "confidence": 1.0
+}

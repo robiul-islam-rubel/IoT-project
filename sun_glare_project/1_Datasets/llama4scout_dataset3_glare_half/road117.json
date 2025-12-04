@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 100",
+  "explanation_of_traffic_sign": "The traffic sign is circular with a yellow background and a red ring. In the center, there is a number '100'. This matches the format of a speed limit sign.",
+  "traffic_sign_location": "top-right",
+  "confidence": 0.9
+}

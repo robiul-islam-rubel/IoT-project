@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The traffic sign visible in the image is a traffic light with a yellow glow, indicating that it is currently active and showing a yellow light.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

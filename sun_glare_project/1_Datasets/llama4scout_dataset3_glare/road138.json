@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Pedestrian Crossing",
+  "explanation_of_traffic_sign": "The sign is a yellow rectangle with a white circle in the center, containing a black symbol of a pedestrian.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

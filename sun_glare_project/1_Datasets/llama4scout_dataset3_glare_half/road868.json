@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a yellow light illuminated, indicating caution or prepare to stop. Below the traffic light, there is a blue sign with white arrows pointing upwards, indicating lane directions.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

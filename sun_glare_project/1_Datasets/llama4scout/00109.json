@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The image shows a bright yellow light, but through analysis, I can see a white circle with a number in the center. Although the image is blurry, I can infer that it is a speed limit sign, possibly 60.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

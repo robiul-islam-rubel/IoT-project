@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 20",
+  "explanation_of_traffic_sign": "The image shows a red circle with a white interior and the number 20 in the center. This is a common design for speed limit signs, and the number 20 indicates the speed limit in kilometers per hour or miles per hour.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

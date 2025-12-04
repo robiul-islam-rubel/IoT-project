@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 60",
+  "explanation_of_traffic_sign": "The sign is round with a white interior and a black border. It has the number 60 inside it, which indicates the maximum speed limit.",
+  "traffic_sign_location": "middle of the left side of the image",
+  "confidence": 0.9
+}

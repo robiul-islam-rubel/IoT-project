@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign is circular with a yellow light in the center and a number 2 at the bottom, indicating it is a traffic light showing a yellow light, specifically for lane 2.",
+  "traffic_sign_location": "center-right",
+  "confidence": 0.9
+}

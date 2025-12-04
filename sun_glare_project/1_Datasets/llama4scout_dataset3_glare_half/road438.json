@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 35",
+  "explanation_of_traffic_sign": "The sign is circular with a black border and a white interior, containing the number 35 in black text. This matches the common design for speed limit signs in many regions.",
+  "traffic_sign_location": "bottom-left",
+  "confidence": 0.9
+}

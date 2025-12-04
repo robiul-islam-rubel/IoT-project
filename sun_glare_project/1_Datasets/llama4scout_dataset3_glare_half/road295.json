@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 50",
+  "explanation_of_traffic_sign": "The sign is circular with a white interior and a blue border. Inside the white interior is a white number '50'. The combination of the circular shape, blue border, and the number inside is indicative of a speed limit sign, which is common across many countries.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

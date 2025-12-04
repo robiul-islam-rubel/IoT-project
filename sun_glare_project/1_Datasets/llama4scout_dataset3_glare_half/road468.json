@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 30",
+  "explanation_of_traffic_sign": "The traffic sign is circular with a yellow background and a white interior. It has the number 30 in the center, which indicates a speed limit.",
+  "traffic_sign_location": "center",
+  "confidence": 0.99
+}

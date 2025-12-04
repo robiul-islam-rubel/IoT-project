@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "One-way traffic sign",
+  "explanation_of_traffic_sign": "The sign has three white arrows pointing downwards on a blue background, indicating that traffic can only flow in one direction.",
+  "traffic_sign_location": "top-right",
+  "confidence": 0.9
+}

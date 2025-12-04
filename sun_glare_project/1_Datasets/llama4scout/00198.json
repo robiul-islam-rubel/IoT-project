@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Warning",
+  "explanation_of_traffic_sign": "The given image shows a yellow light in the center of a red triangle, which is a universal warning sign, often used to indicate caution or general warning.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

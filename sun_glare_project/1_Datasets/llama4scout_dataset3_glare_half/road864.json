@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal with Green Arrow",
+  "explanation_of_traffic_sign": "The sign is a traffic signal showing a green arrow pointing to the right, indicating that traffic can proceed in that direction. Below it, there is a blue sign with two white arrows pointing upwards, which likely indicates that the lane is for traffic that can turn right or go straight ahead.",
+  "traffic_sign_location": "center of the image",
+  "confidence": 0.99
+}

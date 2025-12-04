@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Green Light",
+  "explanation_of_traffic_sign": "The traffic sign visible is a green light indicating that vehicles can proceed through the intersection.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

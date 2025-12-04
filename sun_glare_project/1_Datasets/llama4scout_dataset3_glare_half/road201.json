@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal - Yellow Light",
+  "explanation_of_traffic_sign": "The sign has a yellow circle with a white interior and an arrow pointing down below it, indicating a traffic signal.",
+  "traffic_sign_location": "Center",
+  "confidence": 0.9
+}

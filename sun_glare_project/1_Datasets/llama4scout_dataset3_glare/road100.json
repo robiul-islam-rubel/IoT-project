@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 50",
+  "explanation_of_traffic_sign": "The sign is circular with a red border, a white interior, and the number '50' in large black font. This matches the common design for speed limit signs in many countries.",
+  "traffic_sign_location": "center",
+  "confidence": 1.0
+}

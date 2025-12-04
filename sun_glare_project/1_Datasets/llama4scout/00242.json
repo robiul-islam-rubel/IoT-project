@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Warning Sign",
+  "explanation_of_traffic_sign": "The sign is triangular with a yellow center and a red border, which is commonly used for warning signs.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

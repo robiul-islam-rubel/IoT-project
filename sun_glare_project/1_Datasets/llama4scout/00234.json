@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Right Turn",
+  "explanation_of_traffic_sign": "The traffic sign is circular with a yellow arrow pointing to the right, indicating a right turn is allowed.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

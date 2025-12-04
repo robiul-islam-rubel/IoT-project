@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The traffic sign visible in the image is a traffic light, which is typically used to control the flow of traffic by indicating when it is safe to proceed or stop.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

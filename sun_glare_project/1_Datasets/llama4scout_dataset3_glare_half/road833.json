@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "One-way street sign",
+  "explanation_of_traffic_sign": "The sign is a blue circle with a white arrow pointing upwards, indicating that traffic can only flow in one direction.",
+  "traffic_sign_location": "right side of the image",
+  "confidence": 0.9
+}

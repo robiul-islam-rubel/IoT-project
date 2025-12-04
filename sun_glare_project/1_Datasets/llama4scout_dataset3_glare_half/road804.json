@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The sign is a traffic signal with an arrow pointing downwards, indicating that traffic can proceed in the direction of the arrow.",
+  "traffic_sign_location": "top-center",
+  "confidence": 0.9
+}

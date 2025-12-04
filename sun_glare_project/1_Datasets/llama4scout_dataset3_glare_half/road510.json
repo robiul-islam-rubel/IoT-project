@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 20",
+  "explanation_of_traffic_sign": "The traffic sign is circular with a yellow background and a white interior. Inside the white interior, there is a black number '20'. This matches the common design for speed limit signs in many countries, which typically use a circular sign with a specific number indicating the speed limit.",
+  "traffic_sign_location": "center of the image",
+  "confidence": 0.99
+}

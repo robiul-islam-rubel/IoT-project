@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Passing",
+  "explanation_of_traffic_sign": "The sign has a blue background with a red 'X' over two white arrows pointing in opposite directions, indicating that passing is not allowed.",
+  "traffic_sign_location": "bottom-left",
+  "confidence": 0.99
+}

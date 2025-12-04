@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a yellow light illuminated at the top, indicating a transition from green to red. Below the yellow light, there is a standard traffic light with three sections, and the bottom section has an arrow pointing up, which typically indicates the direction for traffic flow.",
+  "traffic_sign_location": "Center",
+  "confidence": 0.99
+}

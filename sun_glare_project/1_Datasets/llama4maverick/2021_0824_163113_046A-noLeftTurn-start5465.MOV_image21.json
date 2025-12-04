@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "No Left Turn, No U-Turn",
+  "explanation_of_traffic_sign": "The image shows a road with a signpost on the left side displaying two signs. The top sign has a red circle with a white interior and a black arrow turning left, indicating 'No Left Turn'. The bottom sign has a red circle with a white interior and a black U-turn symbol, indicating 'No U-Turn'.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

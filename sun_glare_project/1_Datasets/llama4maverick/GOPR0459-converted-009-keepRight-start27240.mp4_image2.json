@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal",
+  "explanation_of_traffic_sign": "The image shows a road with traffic lights hanging above it. The traffic lights are green, indicating that drivers can proceed. There are no visible traffic signs like Stop, Yield, or Speed Limit in the image.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

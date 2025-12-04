@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Stop",
+  "explanation_of_traffic_sign": "The sign is an octagon with a red background and white lettering that reads 'STOP'. Additionally, there is a smaller sign below it that says 'ALL WAY', indicating that drivers must stop from all directions.",
+  "traffic_sign_location": "center",
+  "confidence": 1.0
+}

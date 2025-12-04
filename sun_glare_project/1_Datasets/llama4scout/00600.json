@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The image shows a bright yellow light with a white center, which is likely a speed limit sign with a specific number in the center, but the number is unclear due to blurriness. However, given common traffic signs, a yellow circle often indicates a speed limit or advisory speed.",
+  "traffic_sign_location": "center",
+  "confidence": 0.8
+}

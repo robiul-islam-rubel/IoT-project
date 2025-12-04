@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The sign has a circular shape with a white interior and a yellow border. Inside the circle, there is a white circle with a black interior, indicating that it is a traffic light, specifically a red light.",
+  "traffic_sign_location": "bottom-right",
+  "confidence": 0.9
+}

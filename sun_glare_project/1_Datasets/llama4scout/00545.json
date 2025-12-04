@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit",
+  "explanation_of_traffic_sign": "The image shows a bright yellow light in the center, which appears to be a street light or a signal light, but there is a circular shape around the light that could be interpreted as a speed limit sign, however, the number is not visible.",
+  "traffic_sign_location": "center",
+  "confidence": 0.6
+}

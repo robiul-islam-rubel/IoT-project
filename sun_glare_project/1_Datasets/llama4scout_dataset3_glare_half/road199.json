@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light with Pedestrian Signal",
+  "explanation_of_traffic_sign": "The sign is a traffic light with a pedestrian signal showing a walking person, indicating it is safe for pedestrians to cross the road. The sign has a yellow light which typically indicates caution or preparation for stopping, but in the context of pedestrian signals, the walking figure signifies it's safe to cross.",
+  "traffic_sign_location": "left-center",
+  "confidence": 0.9
+}

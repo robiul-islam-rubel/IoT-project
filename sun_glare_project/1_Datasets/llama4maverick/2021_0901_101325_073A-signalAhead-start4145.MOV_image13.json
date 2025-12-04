@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Signal Ahead",
+  "explanation_of_traffic_sign": "The sign is yellow with a red, yellow, and green light symbol, indicating a traffic signal ahead.",
+  "traffic_sign_location": "top-left",
+  "confidence": 0.9
+}

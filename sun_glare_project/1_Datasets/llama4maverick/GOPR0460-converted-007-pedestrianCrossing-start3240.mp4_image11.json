@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Merge",
+  "explanation_of_traffic_sign": "The sign is yellow and diamond-shaped, indicating a warning. It has an image of two lanes merging into one, which is a common symbol for a merge sign.",
+  "traffic_sign_location": "center-right",
+  "confidence": 0.8
+}

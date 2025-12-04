@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Traffic Light",
+  "explanation_of_traffic_sign": "The image shows a traffic light with a yellow glow and a white circle at the top, indicating a transition from green to red or vice versa.",
+  "traffic_sign_location": "center",
+  "confidence": 0.9
+}

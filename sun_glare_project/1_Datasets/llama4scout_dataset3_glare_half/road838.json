@@ -1,0 +1,6 @@
+{
+  "traffic_sign_name": "Speed Limit 80",
+  "explanation_of_traffic_sign": "The sign is circular with a white background and black text that clearly reads '80'. It is a standard speed limit sign indicating the maximum speed allowed on this road is 80 units (likely km/h, given the context).",
+  "traffic_sign_location": "center of the image, attached to a pole on the left side of the road",
+  "confidence": 1.0
+}
