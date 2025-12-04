@@ -45,6 +45,15 @@ pip install -r requirements.txt
 
 This is the file I use to add the artificial sun glare on the traffic sign in different position of the sign from top to bottom to left to right towards center. You just need to change the value of the `position`. For example, `position="center"`.
 
+> cnn.ipynb
+
+This file is the custom made cnn model. You just need to change different dataset directory to perform the cnn model.
+
+
+> vgg16.ipynb
+This file contains the all the five models, what you need to do is just change the dataset from normal to glare. You can also change the folder name for saving the figure for normal and glare.
+
+
 
 ## Repository Structure
 
