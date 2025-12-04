@@ -2,7 +2,7 @@
 
 > Abstract
 
-----
+
 Autonomous vehicles rely on deep learning based per-
 ception systems to interpret traffic signs and support safe
 driving decisions. Although previous studies have exam-
@@ -25,7 +25,7 @@ speed limit 45, 65, are the most vulnerable. Furthermore,
 we found that the center of the traffic sign is more vul-
 nerable to sun glare, which decreases the test accuracy by
 80%.
----
+
 
 
 # Prerequisites
