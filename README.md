@@ -1,5 +1,32 @@
 # When the Sun Becomes an Attacker: Glare-Induced Adversarial Vulnerabilities in Traffic Sign Classification
 
+## Abstract
+
+Autonomous vehicles rely on deep learning based per-
+ception systems to interpret traffic signs and support safe
+driving decisions. Although previous studies have exam-
+ined environmental factors such as rain, shadows, and par-
+tial occlusions, the influence of sun glare has received far
+less attention despite its frequent presence in real-world
+driving. This work provides a comprehensive analysis of
+how natural and synthetically generated sun glare affects
+traffic sign classification. Using a controlled glare gen-
+eration workflow, we create datasets with multiple glare
+positions and intensity levels to evaluate the robustness of
+several architectures, including a custom CNN, VGG16,
+and ResNet variants. Our experiments demonstrate that
+sun glare causes substantial performance degradation and
+that certain traffic sign categories are more sensitive to it
+than others. Results indicate that sun glare significantly
+decreases the traffic sign classification accuracy from 97%
+to 22%. We also found that digit-based signs, such as
+speed limit 45, 65, are the most vulnerable. Furthermore,
+we found that the center of the traffic sign is more vul-
+nerable to sun glare, which decreases the test accuracy by
+80%.
+---
+
+
 # Prerequisites
 ## This code was primarily run on Ubuntu 22.04.5. However, nothing is depending on specific version of Ubuntu. You are required to have [virtual environment](https://docs.python.org/3/library/venv.html) in your system.
 
